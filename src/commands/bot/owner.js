@@ -7,22 +7,22 @@ module.exports = async (client, interaction, args) => {
         thumbnail: client.user.avatarURL({ dynamic: true, size: 1024 }),
         fields: [{
             name: "👑┆Owner name",
-            value: `cmxn3on`,
+            value: `Mot Oyamat`,
             inline: true,
         },
         {
             name: "🏷┆Discord tag",
-            value: `cmxn3on`,
+            value: `Mot Oyamat`,
             inline: true,
         },
         {
             name: "🏢┆Organization",
-            value: `neonbot`,
+            value: `Agent's Here`,
             inline: true,
         },
         {
             name: "🌐┆Website",
-            value: `[kydae-web.averageneon.repl.co](kydae-web.averageneon.repl.co)`,
+            value: `[Facebook](https://pornhub.com)`,
             inline: true,
         }],
         type: 'editreply'

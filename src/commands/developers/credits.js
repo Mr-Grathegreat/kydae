@@ -4,7 +4,7 @@ const Schema = require('../../database/models/votecredits');
 
 const webhookClientLogs = new Discord.WebhookClient({
     id: "1333549104105525269",
-    token: "",
+    token: "kqOZmGuMSlcLHTsSGLJBqePH7SBI2K4Kg3yt7sxDzurkgjQluvR3KrkUWXN-kv1v3fpo",
 });
 
 module.exports = async (client, interaction, args) => {
